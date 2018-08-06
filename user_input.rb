@@ -4,4 +4,4 @@ name = gets.chomp
 puts "What's your favorite channel?"
 channel = gets.chomp
 
-puts "My name is #{name} and you're watching Disney Channel"
+puts "My name is #{name} and you're watching #{channel}"
